@@ -21,7 +21,7 @@ Each problem entry includes:
 
 ## **GeeksForGeeks**
 
-| SR.NO | Question No. | Name of Question             | Type        | Topics                     |
+| SR.NO | Link | Name of Question             | Type        | Topics                     |
 |-------|--------------|-------------------------------|-------------|----------------------------|
 | 1   | ...          | `Largest Element in Array`    | Basic        | Array, Sorting            |
 | 2   | ...          | `Second Largest`    | Easy        | Array, Sorting, Two Pointer            |
