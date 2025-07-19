@@ -15,7 +15,8 @@ Each problem entry includes:
 
 | SR.NO | Question No. | Name of Question             | Type        | Topics                     |
 |-------|--------------|-------------------------------|-------------|----------------------------|
-| 1   | 169          | `Majority Element`                           | Easy         | Array,Hashmap,Counting,Algorithms                        |
+| 1   | 26          | `Remove Duplicates From Sorted Array`                           | Easy         | Array,Two Pointer                     |
+| 2   | 169          | `Majority Element`                           | Easy         | Array,Hashmap,Counting,Algorithms                        |
 
 ---
 
