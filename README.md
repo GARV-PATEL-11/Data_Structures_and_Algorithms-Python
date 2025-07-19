@@ -15,7 +15,7 @@ Each problem entry includes:
 
 | SR.NO | Question No. | Name of Question             | Type        | Topics                     |
 |-------|--------------|-------------------------------|-------------|----------------------------|
-| ...   | ...          | ...                           | ...         | ...                        |
+| 1   | 169          | `Majority Element`                           | Easy         | Array,Hashmap,Counting,Algorithms                        |
 
 ---
 
