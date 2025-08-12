@@ -17,6 +17,11 @@ Each problem entry includes:
 |-------|--------------|-------------------------------|-------------|----------------------------|
 | 1   | 26          | `Remove Duplicates From Sorted Array`                           | Easy         | Array,Two Pointer                     |
 | 2   | 169          | `Majority Element`                           | Easy         | Array,Hashmap,Counting,Algorithms                        |
+| 3   | 1752          | `Check if Array Is sorted and Rotated`     | Easy         | Array                     |
+| 4   | 485          | `Max Consecutive Ones`                           | Easy         | Array,Two Pointers     |
+| 5   | 268         | `Missing Number`                           | Easy         | Array,Hashmap, Math, Bit Manipulation,Sorting                        |
+| 6  | 283         | `Move Zeros`                           | Easy         | Array,Two Pointers        |
+| 7   | 2149         | `Rearrange Array Elements by Sign`  | Easy         | Array,Two Pointers                         |
 
 ---
 
