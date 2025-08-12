@@ -22,6 +22,32 @@ Each problem entry includes:
 | 5   | 268         | `Missing Number`                           | Easy         | Array, Hashmap, Math, Bit Manipulation, Sorting                        |
 | 6  | 283         | `Move Zeros`                           | Easy         | Array,Two Pointers        |
 | 7   | 2149         | `Rearrange Array Elements by Sign`  | Easy         | Array,Two Pointers                         |
+|  8  |           |                            |          |                         |
+|   9 |           |                            |          |                         |
+|    10|           |                            |          |                         |
+| 11   |           |                            |          |                         |
+|   12 |           |                            |          |                         |
+|  13  |           |                            |          |                         |
+|  14  |           |                            |          |                         |
+|  15  |           |                            |          |                         |
+|  16  |           |                            |          |                         |
+|  17  |           |                            |          |                         |
+|  18 |           |                            |          |                         |
+|  19 |           |                            |          |                         |
+|  20 |           |                            |          |                         |
+|  21  |           |                            |          |                         |
+| 22   |           |                            |          |                         |
+| 23   |           |                            |          |                         |
+| 24   |           |                            |          |                         |
+| 25   |           |                            |          |                         |
+| 26   |           |                            |          |                         |
+| 27   |           |                            |          |                         |
+| 28   |           |                            |          |                         |
+| 29   |           |                            |          |                         |
+| 30   |           |                            |          |                         |
+| 31   |           |                            |          |                         |
+| 32   |           |                            |          |                         |
+| 33   |           |                            |          |                         |
 
 ---
 
@@ -29,9 +55,9 @@ Each problem entry includes:
 
 | SR.NO | Link | Name of Question             | Type        | Topics                     |
 |-------|--------------|-------------------------------|-------------|----------------------------|
-| 1   | ...          | `Largest Element in Array`    | Basic        | Array, Sorting            |
-| 2   | ...          | `Second Largest`    | Easy        | Array, Sorting, Two Pointer            |
-| ...   | ...          | ...                           | ...         | ...                        |
+| 1   |           | `Largest Element in Array`    | Basic        | Array, Sorting            |
+| 2   |           | `Second Largest`    | Easy        | Array, Sorting, Two Pointer            |
+|    |           |                            |          |                         |
 
 ---
 
@@ -39,7 +65,7 @@ Each problem entry includes:
 
 | SR.NO | Question No. | Name of Question             | Type        | Topics                     |
 |-------|--------------|-------------------------------|-------------|----------------------------|
-| ...   | ...          | ...                           | ...         | ...                        |
+|    |           |                            |          |                         |
 
 ---
 ## 🤝 Contribution
