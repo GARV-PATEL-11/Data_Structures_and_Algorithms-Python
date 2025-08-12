@@ -15,13 +15,18 @@ Each problem entry includes:
 
 | SR.NO | Question No. | Name of Question             | Type        | Topics                     |
 |-------|--------------|-------------------------------|-------------|----------------------------|
-| 1   | 26          | `Remove Duplicates From Sorted Array`                           | Easy         | Array,Two Pointer                     |
-| 2   | 169          | `Majority Element`                           | Easy         | Array,Hashmap,Counting,Algorithms                        |
-| 3   | 1752          | `Check if Array Is sorted and Rotated`     | Easy         | Array                     |
-| 4   | 485          | `Max Consecutive Ones`                           | Easy         | Array,Two Pointers     |
-| 5   | 268         | `Missing Number`                           | Easy         | Array, Hashmap, Math, Bit Manipulation, Sorting                        |
-| 6  | 283         | `Move Zeros`                           | Easy         | Array,Two Pointers        |
-| 7   | 2149         | `Rearrange Array Elements by Sign`  | Easy         | Array,Two Pointers                         |
+| 1   | 1752  | `Check if Array Is Sorted and Rotated`                  | Easy       | Array,Sorting,                                                         |
+| 2   | 169   | `Majority Element`                                      | Easy       | Array, Hashmap, Counting, Algorithms                         |
+| 3   | 485   | `Max Consecutive Ones`                                  | Easy       | Array, Two Pointers                                          |
+| 4   | 268   | `Missing Number`                                        | Easy       | Array, Hashmap, Math, Bit Manipulation, Sorting              |
+| 5   | 283   | `Move Zeroes`                                           | Easy       | Array, Two Pointers                                          |
+| 6   | 2149  | `Rearrange Array Elements by Sign`                      | Medium       | Array, Two Pointers                                          |
+| 7   | 26    | `Remove Duplicates From Sorted Array`                   | Easy       | Array, Two Pointers, Math                                          |
+| 8   | 189   | `Rotate Array`                                          | Medium     | Array                                                        |
+| 9   | 136   | `Single Number`                                         | Easy       | Array, Bit Manipulation                                      |
+| 10  | 75    | `Sort Colors`                                           | Medium     | Array, Two Pointers, Sorting, Algorithms                                 |
+| 11  | 167   | `Two Sum II - Input Array Is Sorted`                    | Medium     | Array, Two Pointers, Binary Search                           |
+| 12  | 1     | `Two Sum`                                               | Easy       | Array, Hashmap                                               |
 |  8  |           |                            |          |                         |
 |   9 |           |                            |          |                         |
 |    10|           |                            |          |                         |
